@@ -1,1 +1,1 @@
-<iframe width="560" height="315" src="https://frontend.vh.yandex.ru/player/v2n-vZQovWds?from=partner&mute=1&autoplay=1&branding=0" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen></iframe>
+{{iframe src="https://yandex.ru/efir?stream_id=v2n-vZQovWds&f=1" width=700px height=600px frameborder=0 scrolling=no}}
